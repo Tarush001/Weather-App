@@ -2,8 +2,6 @@
 
 A simple and intuitive web application that provides real-time weather information for any location worldwide.
 
-![Weather App Screenshot](screenshot.png)
-
 ## Features
 
 - **Current Weather:** Displays the current temperature, weather conditions (e.g., sunny, rainy, cloudy), humidity, wind speed, and cloud cover.
